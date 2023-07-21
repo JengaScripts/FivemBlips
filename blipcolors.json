@@ -1,0 +1,402 @@
+[
+    {
+      "Color": "background-color: #fefefe",
+      "Name": "0 White"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "1 Red"
+    },
+    {
+      "Color": "background-color: #71cb71",
+      "Name": "2 Green"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "2 (enemy) Red"
+    },
+    {
+      "Color": "background-color: #5db6e5",
+      "Name": "2 (friendly) Blue"
+    },
+    {
+      "Color": "background-color: #5db6e5",
+      "Name": "3 Blue"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "3 (enemy) Red"
+    },
+    {
+      "Color": "background-color: #fefefe",
+      "Name": "4 White"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "4 (enemy) Red"
+    },
+    {
+      "Color": "background-color: #5db6e5",
+      "Name": "4 (friendly) Blue"
+    },
+    {
+      "Color": "background-color: #eec64e",
+      "Name": "5 Yellow"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "5 (enemy) Red"
+    },
+    {
+      "Color": "background-color: #5db6e5",
+      "Name": "5 (friendly) Blue"
+    },
+    {
+      "Color": "background-color: #c25050",
+      "Name": "6 Light Red"
+    },
+    {
+      "Color": "background-color: #9c6eaf",
+      "Name": "7 Violet"
+    },
+    {
+      "Color": "background-color: #fe7ac3",
+      "Name": "8 Pink"
+    },
+    {
+      "Color": "background-color: #f59d79",
+      "Name": "9 Light Orange"
+    },
+    {
+      "Color": "background-color: #b18f83",
+      "Name": "10 Light Brown"
+    },
+    {
+      "Color": "background-color: #8dcea7",
+      "Name": "11 Light Green"
+    },
+    {
+      "Color": "background-color: #70a8ae",
+      "Name": "12 Light Blue"
+    },
+    {
+      "Color": "background-color: #d3d1e7",
+      "Name": "13 Light Purple"
+    },
+    {
+      "Color": "background-color: #8f7e98",
+      "Name": "14 Dark Purple"
+    },
+    {
+      "Color": "background-color: #6ac4bf",
+      "Name": "15 Cyan"
+    },
+    {
+      "Color": "background-color: #d5c398",
+      "Name": "16 Light Yellow"
+    },
+    {
+      "Color": "background-color: #ea8e50",
+      "Name": "17 Orange"
+    },
+    {
+      "Color": "background-color: #97cae9",
+      "Name": "18 Light Blue"
+    },
+    {
+      "Color": "background-color: #b26287",
+      "Name": "19 Dark Pink"
+    },
+    {
+      "Color": "background-color: #8f8d79",
+      "Name": "20 Dark Yellow"
+    },
+    {
+      "Color": "background-color: #a6755e",
+      "Name": "21 Dark Orange"
+    },
+    {
+      "Color": "background-color: #afa8a8",
+      "Name": "22 Light Gray"
+    },
+    {
+      "Color": "background-color: #e78d9a",
+      "Name": "23 Light Pink"
+    },
+    {
+      "Color": "background-color: #bbd65b",
+      "Name": "24 Lemon Green"
+    },
+    {
+      "Color": "background-color: #0c7b56",
+      "Name": "25 Forest Green"
+    },
+    {
+      "Color": "background-color: #7ac3fe",
+      "Name": "26 Electric Blue"
+    },
+    {
+      "Color": "background-color: #ab3ce6",
+      "Name": "27 Bright Purple"
+    },
+    {
+      "Color": "background-color: #cda80c",
+      "Name": "28 Dark Yellow"
+    },
+    {
+      "Color": "background-color: #4561ab",
+      "Name": "29 Dark Blue"
+    },
+    {
+      "Color": "background-color: #29a5b8",
+      "Name": "30 Dark Cyan"
+    },
+    {
+      "Color": "background-color: #b89b7b",
+      "Name": "31 Light Brown"
+    },
+    {
+      "Color": "background-color: #c8e0fe",
+      "Name": "32 Light Blue"
+    },
+    {
+      "Color": "background-color: #f0f096",
+      "Name": "33 Light Yellow"
+    },
+    {
+      "Color": "background-color: #ed8ca1",
+      "Name": "34 Light Pink"
+    },
+    {
+      "Color": "background-color: #f98a8a",
+      "Name": "35 Light Red"
+    },
+    {
+      "Color": "background-color: #fbeea5",
+      "Name": "36 Beige"
+    },
+    {
+      "Color": "background-color: #fefefe",
+      "Name": "37 White"
+    },
+    {
+      "Color": "background-color: #2c6db8",
+      "Name": "38 Blue"
+    },
+    {
+      "Color": "background-color: #9a9a9a",
+      "Name": "39 Light Gray"
+    },
+    {
+      "Color": "background-color: #4c4c4c",
+      "Name": "40 Dark Gray"
+    },
+    {
+      "Color": "background-color: #F29D9D",
+      "Name": "41 Pink Red"
+    },
+    {
+      "Color": "background-color: #6CB7D6",
+      "Name": "42 Blue"
+    },
+    {
+      "Color": "background-color: #AFEDAE",
+      "Name": "43 Light Green"
+    },
+    {
+      "Color": "background-color: #FFA75F",
+      "Name": "44 Light Orange"
+    },
+    {
+      "Color": "background-color: #F1F1F1",
+      "Name": "45 White"
+    },
+    {
+      "Color": "background-color: #ECF029",
+      "Name": "46 Gold"
+    },
+    {
+      "Color": "background-color: #FF9A18",
+      "Name": "47 Orange"
+    },
+    {
+      "Color": "background-color: #F644A5",
+      "Name": "48 Brilliant Rose"
+    },
+    {
+      "Color": "background-color: #E03A3A",
+      "Name": "49 Red"
+    },
+    {
+      "Color": "background-color: #5db6e5",
+      "Name": "49 (friendly) Blue"
+    },
+    {
+      "Color": "background-color: #8A6DE3",
+      "Name": "50 Medium Purple"
+    },
+    {
+      "Color": "background-color: #FF8B5C",
+      "Name": "51 Salmon"
+    },
+    {
+      "Color": "background-color: #416C41",
+      "Name": "52 Dark Green"
+    },
+    {
+      "Color": "background-color: #B3DDF3",
+      "Name": "53 Blizzard Blue"
+    },
+    {
+      "Color": "background-color: #3A6479",
+      "Name": "54 Oracle Blue"
+    },
+    {
+      "Color": "background-color: #A0A0A0",
+      "Name": "55 Silver"
+    },
+    {
+      "Color": "background-color: #847232",
+      "Name": "56 Brown"
+    },
+    {
+      "Color": "background-color: #65B9E7",
+      "Name": "57 Blue"
+    },
+    {
+      "Color": "background-color: #4B4175",
+      "Name": "58 East Bay"
+    },
+    {
+      "Color": "background-color: #E13B3B",
+      "Name": "59 Red"
+    },
+    {
+      "Color": "background-color: #F0CB58",
+      "Name": "60 Yellow Orange"
+    },
+    {
+      "Color": "background-color: #CD3F98",
+      "Name": "61 Mulberry Pink"
+    },
+    {
+      "Color": "background-color: #CFCFCF",
+      "Name": "62 Alto Gray"
+    },
+    {
+      "Color": "background-color: #276A9F",
+      "Name": "63 Jelly Bean Blue"
+    },
+    {
+      "Color": "background-color: #D87B1B",
+      "Name": "64 Dark Orange"
+    },
+    {
+      "Color": "background-color: #8E8393",
+      "Name": "65 Mamba"
+    },
+    {
+      "Color": "background-color: #F0CB57",
+      "Name": "66 Yellow Orange"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "66 (enemy) Red"
+    },
+    {
+      "Color": "background-color: #5db6e5",
+      "Name": "66 (friendly) Blue"
+    },
+    {
+      "Color": "background-color: #65B9E7",
+      "Name": "67 Blue"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "67 (enemy) Red"
+    },
+    {
+      "Color": "background-color: #65B9E7",
+      "Name": "68 Blue"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "68 (enemy) Red"
+    },
+    {
+      "Color": "background-color: #79CD79",
+      "Name": "69 Green"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "69 (enemy) Red"
+    },
+    {
+      "Color": "background-color: #5db6e5",
+      "Name": "69 (friendly) Blue"
+    },
+    {
+      "Color": "background-color: #EFCA57",
+      "Name": "70 Yellow Orange"
+    },
+    {
+      "Color": "background-color: #EFCA57",
+      "Name": "71 Yellow Orange"
+    },
+    {
+      "Color": "background-color: #3D3D3D",
+      "Name": "72 Transparent Black"
+    },
+    {
+      "Color": "background-color: #EFCA57",
+      "Name": "73 Yellow Orange"
+    },
+    {
+      "Color": "background-color: #65B9E7",
+      "Name": "74 Blue"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "75 Red"
+    },
+    {
+      "Color": "background-color: #782323",
+      "Name": "76 Deep red"
+    },
+    {
+      "Color": "background-color: #65B9E7",
+      "Name": "77 Blue"
+    },
+    {
+      "Color": "background-color: #3A6479",
+      "Name": "78 Oracle Blue"
+    },
+    {
+      "Color": "background-color: #e03232",
+      "Name": "79 Transparent Red"
+    },
+    {
+      "Color": "background-color: #65B9E7",
+      "Name": "80 Transparent Blue"
+    },
+    {
+      "Color": "background-color: #F2A40C",
+      "Name": "81 Orange"
+    },
+    {
+      "Color": "background-color: #A4CCAA",
+      "Name": "82 Light Green"
+    },
+    {
+      "Color": "background-color: #A854F2",
+      "Name": "83 Purple"
+    },
+    {
+      "Color": "background-color: #65B9E7",
+      "Name": "84 Blue"
+    },
+    {
+      "Color": "background-color: #3D3D3D",
+      "Name": "85 Transparent Black"
+    }
+  ]
